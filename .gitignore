@@ -34,3 +34,6 @@ replay_pid*
 /agent/backend/agent.iml
 /signing.p12
 /central-signing.pub.pem
+
+# macOS
+.DS_Store
